@@ -6,7 +6,7 @@ doc_type: guide
 status: final
 lifecycle: living
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 # Defense.Design — 기획 문서
 
@@ -60,4 +60,4 @@ Defense.Design/
 ## 4. 커밋 · 원격
 
 - 커밋 제목은 `verb: [Pnn] 한글 제목`, 트레일러는 상위 `CLAUDE.md` 「푸시 · 트레일러」(`_공통` G-13 — 그 세션 모델 이름).
-- 원격은 공개 GitHub(G-04) 예정 — 계정은 `_공통` Q-02. 푸시는 사용자 허락 뒤에만(루트 `CLAUDE.md` 「푸시」).
+- 원격은 공개 GitHub `https://github.com/devman-kr/Defense.Design`(G-04 · `_공통` G-14). 푸시는 사용자 허락 뒤에만(루트 `CLAUDE.md` 「푸시」). 2026-10-31 첫 푸시 전에 작성자 이메일을 재작성해(G-16) 그 전 문서에 적힌 이 저장소의 커밋 해시는 옛 값이다.
