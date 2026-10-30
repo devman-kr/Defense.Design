@@ -1,3 +1,13 @@
+---
+id: 20261030-design-readme
+title: Defense.Design — 기획 문서
+summary: Lantern Rush! 기획 저장소의 역할 분담표와 문서 지도(기획서 · 데이터 · 플레이검사 체크리스트 · 목업)를 두고, 결정 먼저 · 기획서는 덮어쓰기 · 신기능은 목업 먼저 등 쓰는 법 여덟 가지와 폴더 규격, 커밋 · 원격 규칙을 정한다(G-10).
+doc_type: guide
+status: final
+lifecycle: living
+created: 2026-10-30
+updated: 2026-10-30
+---
 # Defense.Design — 기획 문서
 
 게임 **「Lantern Rush!」(랜턴 러시!)** 의 살아 있는 기획 문서를 담는다 — 기획서 · 데이터 표 · 플레이검사 체크리스트 · 룩앤필 목업. 2026-10-30 신설(Planning X-02 → 세 게임 공통 `_공통` G-10). 저장소 이름 `Defense` 는 게임 순서 가칭 그대로다(G-09).
